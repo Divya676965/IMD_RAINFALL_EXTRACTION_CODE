@@ -1,4 +1,4 @@
-DSET D:\Rainfall\Rainfall_ind2020_rfp25.grd
+DSET D:\Rainfall\Rainfall_ind1995_rfp25.grd
 TITLE 0.25 degr analyzed grids
 UNDEF -999.0
 XDEF  135  LINEAR  66.5 0.25
