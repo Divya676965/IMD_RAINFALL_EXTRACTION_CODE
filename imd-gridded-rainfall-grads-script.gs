@@ -2,7 +2,7 @@
 'open D:\Rainfall\rf.ctl'
 ***********************************
 count = 1
-while (count < 367)
+while (count < 366)
 'set t 'count
 'define rainfall=ave(rf, t='count', t='count')'
 ***********************************
